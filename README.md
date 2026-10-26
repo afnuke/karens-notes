@@ -20,7 +20,9 @@ Karen had a notes tool she loved once, riding in her notification bar, and lost 
 
 ## Status
 
-**First build in progress — October 25, 2026.** Idea at 8:17 PM, spec at 8:25 PM, build the same night. The APK (`KarensNotes.apk`) will live in this repo.
+**Out now — shipped October 25, 2026.** Idea at 8:17 PM, spec at 8:23 PM, verified APK at 8:43 PM — 26 minutes, text message to finished app.
+
+**[⬇ Download the APK](https://raw.githubusercontent.com/afnuke/karens-notes/main/Karens-Notes.apk)** — one tap, installs on any Android phone (Android 8.0+).
 
 ---
 
